@@ -1,0 +1,13 @@
+
+EXECUTIVE REPORT (Fallback Mode)
+
+Promotion 1.0 delivers the highest average sales 
+(58.10), outperforming Promotion 3.0 
+by 4.94%.
+
+ANOVA results (p = 0.00000) indicate The differences are statistically significant.
+
+Business Recommendation:
+Recommend scaling this promotion immediately.
+Additionally, consider validating results across more locations or time periods 
+before full rollout.
